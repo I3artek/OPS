@@ -1,0 +1,1 @@
+SIGUSR1: 4, SIGUSR2: 9, C1: 4, C2: 9
