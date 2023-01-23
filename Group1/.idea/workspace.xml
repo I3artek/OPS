@@ -15,58 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ee8b10f-bc87-4bfc-9240-e2c111ec9d85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Everything for Lab1/SOP_Lab1_Dir/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GradedLab2/wzorekb.tar.bz2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2_Group1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/main.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/TaskB_2019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TaskB_2019/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/main1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/main2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/main3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/main4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorial2/out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/ops1_2020Z_lab2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/state.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/state.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ops1_2020Z_lab2/state.3" beforeDir="false" />
-    </list>
+    <list default="true" id="9ee8b10f-bc87-4bfc-9240-e2c111ec9d85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673215954635</updated>
-      <workItem from="1673215956734" duration="13588000" />
+      <workItem from="1673215956734" duration="13859000" />
     </task>
     <servers />
   </component>
